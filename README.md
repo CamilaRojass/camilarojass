@@ -13,6 +13,6 @@ Implementing data analysis and machine learning solutions using pandas for patte
 Therefore the current technical skills I'm working on are:
 
 - Frontend: React.js, TypeScript, HTML5, CSS3, JavaScript
-- Backend: Flask, Django, SQL
+- Backend: Flask, SQL
 - Database: MongoDB, SQL
-- Data Science: Python, pandas
+- Data Science: Python.
